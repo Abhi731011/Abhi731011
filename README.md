@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Tripathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align=“right” alt=“coding” width = “400” src=“https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif”>
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi731011&label=Profile%20views&color=0e75b6&style=flat" alt="abhi731011" /> </p>
 
 - 🔭 I’m currently working on a Website **E-Commerce**
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abhishektripathi7310@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Kyq_Snvrb3edwbxvgPVoFzEGD5VJQxGJ/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

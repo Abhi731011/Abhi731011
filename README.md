@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abhishektripathi7310@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11Zo02W1kV-Rnj1Kn8TrQAsiR4G5OLqFG/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AAOv98leSPV5LCMu2NtmjO5x6TLvzN_5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

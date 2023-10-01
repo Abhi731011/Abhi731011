@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **React for Frontend Development**
 
-- 💬 Ask me about **HTML,CSS,C++,Python,JavaScript**
+- 💬 Ask me about **HTML,CSS,JavaScript,Java,C++,Python,**
 
 - 📫 How to reach me **abhishektripathi7310@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/179oo7agkb1HGIC7oH24x1QcTbqPb6ipF/view?usp=sharing)](https://drive.google.com/file/d/1_QkDRWptm3SXuvM4PVreQ0bmvb1spmBQ/view?usp=sharing)
+- 📄 My Resume [[https://drive.google.com/file/d/179oo7agkb1HGIC7oH24x1QcTbqPb6ipF/view?usp=sharing)](https://drive.google.com/file/d/1_QkDRWptm3SXuvM4PVreQ0bmvb1spmBQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

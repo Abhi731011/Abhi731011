@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abhishektripathi7310@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1wJqoN6Olsnk8uPz-0HdnLJOzaEMU7o7J/view?usp=sharing)
+- 📄 My Resume [[https://drive.google.com/file/d/1wJqoN6Olsnk8uPz-0HdnLJOzaEMU7o7J/view?usp=sharing)](https://drive.google.com/file/d/17LBciT-E4NB2T9GsNxzDwr3P4YHf0qwq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

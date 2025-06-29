@@ -2,15 +2,15 @@
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Tripathi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate App Developer from India</h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi731011&label=Profile%20views&color=0e75b6&style=flat" alt="abhi731011" /> </p>
 
-- 🔭 I’m currently working on a Machine Learning project **Medicine - Recommendation System**
+- 🔭 I’m currently working on a Machine Learning project **Dating App**
 
-- 🌱 I’m currently learning **React for Frontend Development**
+- 🌱 I’m currently learning **Node for Backend Development**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Java,C++,Python,**
+- 💬 Ask me about **HTML,CSS,JavaScript,Java,Python,React Native, TypeScript**
 
 - 📫 How to reach me **abhishektripathi7310@gmail.com**
 
